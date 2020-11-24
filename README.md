@@ -2,7 +2,7 @@
 
 ## Windows
 
-pruebaaa
+pruebaa
 
 ### Compile Code
 * ./mvnw.cmd clean compile -e
