@@ -1,3 +1,3 @@
 node {
-  println 'hello world'
+  println 'hello world!'
 }
