@@ -1,5 +1,3 @@
-Test
-
 # Getting Started
 
 ## Windows
